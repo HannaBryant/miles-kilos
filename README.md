@@ -1,2 +1,2 @@
-# miles-kilos
-a simple conversion table from miles to kilometers
+# kilos-miles
+a simple conversion table from kilometers to miles
